@@ -8,13 +8,14 @@
     <language>en-gb</language>
     <lastBuildDate>Wed, 15 May 2024 15:48:02 +0800</lastBuildDate><atom:link href="https://tortysivill.github.io/decima2.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>What Is Trustworthy AI?</title>
+      <title>What Is AI?</title>
       <link>https://tortysivill.github.io/decima2.github.io/posts/whatisai/</link>
       <pubDate>Wed, 15 May 2024 15:48:02 +0800</pubDate>
       
       <guid>https://tortysivill.github.io/decima2.github.io/posts/whatisai/</guid>
       
-      <description>What is AI? Artificial Intelligence (AI) refers to the ability of a machine to recreate human behaviour. Machine Learning (which describes algorithms like neaural networks) is a subset of AI. Machine Learning replicates the human ability to learn from experience. A Neural Network algorithm constructs a network of nodes whose connections act like the nuerons in our brain.
+      <description>Defining AI Artificial Intelligence (AI) refers to the ability of a machine to recreate human behaviour. Machine Learning (which describes algorithms like neaural networks) is a subset of AI.
+Machines or Brains? Machine Learning replicates the human ability to learn from experience. A Neural Network algorithm constructs a network of nodes whose connections act like the nuerons in our brain.
 When we ask our algorithm to perfom a task, distinguish between images of cats and dogs for example, we feed a large number of examples into the network which uses different layers of nodes to learn the patterns and rules which help to differentiate the images.</description>
       
     </item>
