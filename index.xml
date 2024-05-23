@@ -6,7 +6,18 @@
     <description>Recent content on Decima2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 15 May 2024 15:48:02 +0800</lastBuildDate><atom:link href="https://tortysivill.github.io/decima2.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 May 2024 16:46:47 +0800</lastBuildDate><atom:link href="https://tortysivill.github.io/decima2.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Should We Be Worried About AI?</title>
+      <link>https://tortysivill.github.io/decima2.github.io/posts/worryaboutai/</link>
+      <pubDate>Thu, 23 May 2024 16:46:47 +0800</pubDate>
+      
+      <guid>https://tortysivill.github.io/decima2.github.io/posts/worryaboutai/</guid>
+      
+      <description>As AI becomes increasingly complex it can be used to improve the lives of humans. This includes automating decision making processes such as identifying cancerous cells from radiography images. However, just as humans can be flawed in their decision making, AI has also been known to get it wrong. As AI requires a large number of real world examples to learn from it is vulnerable to learn harmful societal biases inherent in this data.</description>
+      
+    </item>
+    
     <item>
       <title>What Is AI?</title>
       <link>https://tortysivill.github.io/decima2.github.io/posts/whatisai/</link>
