@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Decima2</title>
-    <link>http://localhost:57466/decima2.github.io/posts/</link>
+    <link>https://tortysivill.github.io/decima2.github.io/posts/</link>
     <description>Recent content in Posts on Decima2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 06 Jun 2024 16:36:39 +0800</lastBuildDate><atom:link href="http://localhost:57466/decima2.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jun 2024 16:36:39 +0800</lastBuildDate><atom:link href="https://tortysivill.github.io/decima2.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Historical Bias In Data</title>
-      <link>http://localhost:57466/decima2.github.io/posts/biasindata/</link>
+      <link>https://tortysivill.github.io/decima2.github.io/posts/biasindata/</link>
       <pubDate>Thu, 06 Jun 2024 16:36:39 +0800</pubDate>
       
-      <guid>http://localhost:57466/decima2.github.io/posts/biasindata/</guid>
+      <guid>https://tortysivill.github.io/decima2.github.io/posts/biasindata/</guid>
       
       <description>Over the past ten years there have been numerous public scandals involving &amp;ldquo;Biased AI&amp;rdquo;. These AI models have been shown to rely on biased data which occurs when system social prejudices are encoded into the data which underpins society. In this post we explore what bias is and whether it is always a bad thing for AI.
 What is Bias? Bias is commly thought of as the tendency of reaching a decision which negatively impacts a certain group of people.</description>
@@ -21,10 +21,10 @@ What is Bias? Bias is commly thought of as the tendency of reaching a decision w
     
     <item>
       <title>Trustworthy Data</title>
-      <link>http://localhost:57466/decima2.github.io/posts/trustworthydata/</link>
+      <link>https://tortysivill.github.io/decima2.github.io/posts/trustworthydata/</link>
       <pubDate>Thu, 30 May 2024 16:12:06 +0800</pubDate>
       
-      <guid>http://localhost:57466/decima2.github.io/posts/trustworthydata/</guid>
+      <guid>https://tortysivill.github.io/decima2.github.io/posts/trustworthydata/</guid>
       
       <description>Rubbish Data, Rubbish AI People often say &amp;ldquo;a model is only ever as good as its data&amp;rdquo;. This statement rings absolutely true when we are talking about Untrustworthy AI. AI models, by definiton require data as input to the algorithm. The model then learns patterns from this data in dimensions higher than the brain can understand. Imagine an anagram puzzle, its often easier to write out the letters of the anagram in several configurations until your brain finally solves the puzzle!</description>
       
@@ -32,10 +32,10 @@ What is Bias? Bias is commly thought of as the tendency of reaching a decision w
     
     <item>
       <title>What Is Trustworthy AI?</title>
-      <link>http://localhost:57466/decima2.github.io/posts/whatistrustworthyai/</link>
+      <link>https://tortysivill.github.io/decima2.github.io/posts/whatistrustworthyai/</link>
       <pubDate>Wed, 29 May 2024 17:05:19 +0800</pubDate>
       
-      <guid>http://localhost:57466/decima2.github.io/posts/whatistrustworthyai/</guid>
+      <guid>https://tortysivill.github.io/decima2.github.io/posts/whatistrustworthyai/</guid>
       
       <description>Why Do We Trust? Trust is an abstract concept which varies widely across circumstances and individuals. However, it is udeniable that humans have historically trusted other humans wuth high stakes decisions. Why do we trust doctors to make us better or judges to determine criminal guilt?
 Over generations of societies, humans have relied on accountability to foster trust in governing systems. However, with the advent of technology, these hierarchies of trust are beginning to change&amp;hellip;</description>
@@ -44,10 +44,10 @@ Over generations of societies, humans have relied on accountability to foster tr
     
     <item>
       <title>Should We Be Worried About AI?</title>
-      <link>http://localhost:57466/decima2.github.io/posts/worryaboutai/</link>
+      <link>https://tortysivill.github.io/decima2.github.io/posts/worryaboutai/</link>
       <pubDate>Thu, 23 May 2024 16:46:47 +0800</pubDate>
       
-      <guid>http://localhost:57466/decima2.github.io/posts/worryaboutai/</guid>
+      <guid>https://tortysivill.github.io/decima2.github.io/posts/worryaboutai/</guid>
       
       <description>The Wonders of AI As AI becomes increasingly complex it can be used to improve the lives of humans. This includes automating decision making processes such as identifying cancerous cells from radiography images to autonomous tractors, to deomocratizing education in remote areas.
 AI and Bias However, just as humans can be flawed in their decision making, AI has also been known to get it wrong. As AI requires a large number of real world examples to learn from it is vulnerable to learn harmful societal biases inherent in this data.</description>
@@ -56,10 +56,10 @@ AI and Bias However, just as humans can be flawed in their decision making, AI h
     
     <item>
       <title>What Is AI?</title>
-      <link>http://localhost:57466/decima2.github.io/posts/whatisai/</link>
+      <link>https://tortysivill.github.io/decima2.github.io/posts/whatisai/</link>
       <pubDate>Wed, 15 May 2024 15:48:02 +0800</pubDate>
       
-      <guid>http://localhost:57466/decima2.github.io/posts/whatisai/</guid>
+      <guid>https://tortysivill.github.io/decima2.github.io/posts/whatisai/</guid>
       
       <description>Defining AI Artificial Intelligence (AI) refers to the ability of a machine to recreate human behaviour. Machine Learning (which describes algorithms like neaural networks) is a subset of AI.
 Machines or Brains? Machine Learning replicates the human ability to learn from experience. A Neural Network algorithm constructs a network of nodes whose connections act like the nuerons in our brain.
